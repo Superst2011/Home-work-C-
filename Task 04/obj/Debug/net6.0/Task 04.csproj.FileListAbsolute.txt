@@ -1,0 +1,15 @@
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\bin\Debug\net6.0\Task 04.exe
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\bin\Debug\net6.0\Task 04.deps.json
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\bin\Debug\net6.0\Task 04.runtimeconfig.json
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\bin\Debug\net6.0\Task 04.dll
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\bin\Debug\net6.0\Task 04.pdb
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\obj\Debug\net6.0\Task 04.csproj.AssemblyReference.cache
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\obj\Debug\net6.0\Task 04.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\obj\Debug\net6.0\Task 04.AssemblyInfoInputs.cache
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\obj\Debug\net6.0\Task 04.AssemblyInfo.cs
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\obj\Debug\net6.0\Task 04.csproj.CoreCompileInputs.cache
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\obj\Debug\net6.0\Task 04.dll
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\obj\Debug\net6.0\refint\Task 04.dll
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\obj\Debug\net6.0\Task 04.pdb
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\obj\Debug\net6.0\Task 04.genruntimeconfig.cache
+E:\01_GEEG_BRAINS\Examples C#\Home work\Task 04\obj\Debug\net6.0\ref\Task 04.dll
